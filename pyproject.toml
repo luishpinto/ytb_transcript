@@ -15,7 +15,8 @@ authors = [
 ]
 
 dependencies = [
-  "youtube-transcript-api>=0.6.0"
+  "youtube-transcript-api>=0.6.0",
+  "requests>=2.32,<3"
 ]
 
 [project.urls]
