@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from core import get_ytb_transcript
+from ytb_transcript import get_ytb_transcript
 
 def main():
 

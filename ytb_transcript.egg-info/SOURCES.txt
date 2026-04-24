@@ -1,9 +1,10 @@
 README.md
 pyproject.toml
-core/__init__.py
-core/ytb_transcript.py
+ytb_transcript/__init__.py
 ytb_transcript.egg-info/PKG-INFO
 ytb_transcript.egg-info/SOURCES.txt
 ytb_transcript.egg-info/dependency_links.txt
 ytb_transcript.egg-info/requires.txt
 ytb_transcript.egg-info/top_level.txt
+ytb_transcript/core/__init__.py
+ytb_transcript/core/get_transcript.py

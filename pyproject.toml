@@ -23,4 +23,4 @@ Repository = "https://github.com/luishpinto/ytb_transcript"
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["core*"]
+include = ["ytb_transcript*"]
