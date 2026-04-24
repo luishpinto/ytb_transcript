@@ -1,0 +1,35 @@
+Metadata-Version: 2.4
+Name: ytb_transcript
+Version: 0.1.0
+Summary: Core package for fetching, parsing, and structuring YouTube video transcripts.
+Author: Luis Pinto
+License: MIT
+Project-URL: Repository, https://github.com/luishpinto/ytb_transcript
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: youtube-transcript-api>=0.6.0
+
+# ytb_transcript
+
+A lightweight Python library to fetch, parse, and structure YouTube video transcripts in a clean and programmatic way.
+
+## Overview
+
+`ytb_transcript` provides a simple interface to retrieve transcripts from YouTube videos and transform them into structured data formats suitable for downstream processing, such as:
+
+- Natural Language Processing (NLP)
+- Data analysis
+- Content summarization
+- AI pipelines and agents
+
+The project is organized with a modular architecture, where the `core` package contains the main logic for transcript extraction and processing.
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/luishpinto/ytb_transcript.git
+cd ytb_transcript
