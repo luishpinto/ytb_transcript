@@ -15,11 +15,9 @@ authors = [
 ]
 
 dependencies = [
-  "youtube-transcript-api>=0.6.0"
+  "youtube-transcript-api>=0.6.0",
+  "requests==2.32.4"
 ]
-
-[project.optional-dependencies]
-requests = ["requests>=2.32,<3"]
 
 [project.urls]
 Repository = "https://github.com/luishpinto/ytb_transcript"
