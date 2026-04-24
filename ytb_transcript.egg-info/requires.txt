@@ -1,2 +1,4 @@
 youtube-transcript-api>=0.6.0
+
+[requests]
 requests<3,>=2.32
