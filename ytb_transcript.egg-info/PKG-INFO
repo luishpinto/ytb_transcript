@@ -8,7 +8,7 @@ Project-URL: Repository, https://github.com/luishpinto/ytb_transcript
 Requires-Python: >=3.10
 Description-Content-Type: text/markdown
 Requires-Dist: youtube-transcript-api>=0.6.0
-Requires-Dist: requests==2.32.4
+Requires-Dist: requests>=2.32.4
 
 # ytb_transcript
 
